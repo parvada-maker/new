@@ -40,7 +40,7 @@ function draw()
 {  trex.collide(invisibleGround )
  
 
-  background("white")
+  background("purple")
   text("score-"+ score, 500,50)
         if (gameState===PLAY)
           {
